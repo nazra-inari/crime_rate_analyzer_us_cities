@@ -1,8 +1,9 @@
-# crime_rate_analyzer_us_cities
+# Crime Rate Analyzer | US Cities
 An Rshiny application to interactively analyze and visualize the violent crime rates in US cities
 
 The final application can be found at: https://arzan-irani.shinyapps.io/city-crime-comparison/
 
+![](./imgs/final_app.png)
 ## Overview
 Deciding to move to a new city is already a stressful experience, the last thing you want is to also have to worry about you safety when you arrive. You need to be able to compare the crime rates of potential cities in order to factor that into your final decision as well. To address this issue, we are going build a data visualization app that individuals can use to gain insight into the violent crime rates of US cities. Our application will allow users to pick two cities at a time so they compare raw and normalized crime numbers. For further granularity the user will also be able to limit the time period and compare specific categories of violent crime.
 
